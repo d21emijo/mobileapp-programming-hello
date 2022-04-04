@@ -7,6 +7,11 @@ _Du kan ta bort all text som finns sedan tidigare_.
 
 ## Följande grundsyn gäller dugga-svar:
 
+
+
+    1. ändrat i textview från "hello world!" till något mer spännande
+
+
 - Ett kortfattat svar är att föredra. Svar som är längre än en sida text (skärmdumpar och programkod exkluderat) är onödigt långt.
 - Svaret skall ha minst en snutt programkod.
 - Svaret skall inkludera en kort övergripande förklarande text som redogör för vad respektive snutt programkod gör eller som svarar på annan teorifråga.
